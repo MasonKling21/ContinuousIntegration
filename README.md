@@ -1,3 +1,3 @@
 # ContinuousIntegration
 
-!(https://github.com/MasonKling21/ContinuousIntegration/pass.jpg)
+!(https://github.com/MasonKling21/ContinuousIntegration/blob/main/pass.png)
